@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+  <plugin>
+  
+   <!-- View -->
+  
+  	<extension id="org.dllearner.tools.protege.DLLearnerProtegePlugin"
+              point="org.protege.editor.owl.ui_editor_description">
+       <label value="DL-Learner"/>
+       <class value="org.dllearner.tools.protege.DLLearnerProtegePlugin"/>
+       <index value="E"/>
+    </extension>
+
+  </plugin>
